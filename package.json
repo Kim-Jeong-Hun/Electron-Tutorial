@@ -1,0 +1,25 @@
+{
+  "name": "electron-tutorial",
+  "version": "1.0.0",
+  "description": "Electron을 배워보자",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kim-Jeong-Hun/Electron-Tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Kim-Jeong-Hun/Electron-Tutorial/issues"
+  },
+  "homepage": "https://github.com/Kim-Jeong-Hun/Electron-Tutorial#readme",
+  "devDependencies": {
+    "electron": "^40.6.1"
+  }
+}
